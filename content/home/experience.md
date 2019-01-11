@@ -18,28 +18,50 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Software Engineer"
+  company = "Self Employed"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Gandhinagar"
+  date_start = "2016-11-12"
+  date_end = ""
+  description = """Software Development"""
+
+[[experience]]
+  title = "Systems Engineer"
+  company = "Tata Consultancy Service Limited"
+  company_url = "https://www.tcs.com"
+  location = "Gandhinagar"
+  date_start = "2015-10-21"
+  date_end = "2016-11-11"
+  description = """Software Development"""
+
+[[experience]]
+  title = "Software Engineer"
+  company = "HSBC Software Development India Private Limited"
+  company_url = "https://www.hsbc.com"
+  location = "Pune"
+  date_start = "2015-08-03"
+  date_end = "2015-10-16"
+  description = """Software Development"""
+
+[[experience]]
+  title = "Staff Consultant"
+  company = "Oracle Financial Services Software Limited"
+  company_url = "https://www.oracle.com/industries/financial-services"
+  location = "Pune"
+  date_start = "2015-03-02"
+  date_end = "2015-07-23"
+  description = """Software Development"""
+
+[[experience]]
+  title = "Programmer Analyst"
+  company = "Cognizant Technology Solutions India Private Ltd."
+  company_url = "https://www.cognizant.com"
+  location = "Pune"
+  date_start = "2013-02-21"
+  date_end = "2015-02-13"
+  description = """Software Development"""
 
 +++
